@@ -1,0 +1,12 @@
+.outside {
+    background-color: lightblue;
+    border: 2px solid black;
+    height: 100%;
+}
+h5 {
+    margin: 4px;
+}
+p {
+    margin-top: 15px;
+    padding: 0 30px;
+}

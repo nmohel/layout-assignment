@@ -1,0 +1,22 @@
+.outside {
+    background-color: lightblue;
+    border: 2px solid black;
+    height: 100%
+}
+h5 {
+    margin: 4px;
+}
+.buttons {
+    margin-top: 15px;
+    text-align: center;
+}
+button {
+    display: inline-block;
+    border: 1px solid black;
+    box-shadow: 2px 2px 1px;
+    border-radius: 0;
+    margin: 10px;
+    padding: 5px 0;
+    width: 50%
+
+}
